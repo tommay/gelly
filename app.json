@@ -1,6 +1,6 @@
 {
-  "name": "Gelly"
-  "description": "A minimal sinatra app for messing around on Heroku"
+  "name": "Gelly",
+  "description": "A minimal sinatra app for messing around on Heroku",
   "keywords": [
     "heroku",
     "sinatra",
