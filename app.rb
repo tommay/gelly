@@ -7,5 +7,5 @@ before do
 end
 
 get "/" do
-  "This is he root of all evil!"
+  "This is the root of all evil!"
 end
